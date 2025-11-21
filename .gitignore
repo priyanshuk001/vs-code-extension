@@ -1,0 +1,46 @@
+# Node.js Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# VS Code Extension Testing
+.vscode-test/
+*.vsix
+
+# Build Output
+out/
+dist/
+*.js.map
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary Files
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Environment Variables
+.env
+.env.local
+
+# Test Coverage
+coverage/
+.nyc_output/
+
+# Debug Logs
+logs/
+*.log
+
+# Optional: Results Screenshots (agar nahi chahiye)
+# results_screenshots/
